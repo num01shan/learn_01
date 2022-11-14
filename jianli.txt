@@ -1,0 +1,17 @@
+	熟悉MySQL，云数据库, 熟练掌握SQL语句，存储过程优化，索引查询优化。
+	具有扎实的python编程基础,面向对象思想 熟悉数据结构与算法。
+	熟练掌握Numpy, Pandas, Matplotlib对数据进行处理。
+	熟悉基于Databricks大数据开发平台python和Sparksql开发交互开发，集群配置。
+	熟悉使用IDera数据仓库建模工具，数仓的分层开发与模型构建。
+	熟悉Scrapy框架使用反爬机制, 熟悉Scrapy框架使用,ajax,css异步加载数据。
+	熟悉聚类/K-means, DecisionTreeClassifier/决策树, RandomForestClassifier/随机森林,PCA,神经网络, Tensflow,等算法。
+	熟悉基于Microsoft Azure云数据仓库的开发，测试，生产，存储过程优化，SSMS，azure studio数据库管理工具，大数据开发平台作业调度的开发，管理。
+	熟悉基于Databricks大数据开发平台python和Sparksql开发，ETL工具kettle使用，shell脚本连接数据库。
+	熟悉基于Databricks大数据管理平台的数据开发以及git的代码部署以及交互。
+	熟悉Github代码版本管理，分支构建代码合并冲突解决与code部署。
+	Excel数据的处理、建模和线性代数、统计学等数学知识。
+	熟悉国家电网阿里数据中台以及基于阿里数据中台贴源层数据接入, 掌握DW层pyodps，odpssql数据库以及算法模型代码开发，数据服务，项目部署等组件。
+	熟悉国家电网阿里数据中台以及基于阿里数据中台Dataworks的熟练使用。
+	熟悉国家电网电信息采集系统，营销业务系统，GIS系统，设备管理系统表，数据字典以及各系统表数据关联关系。
+	熟悉国家电网运检业务流程以及数据治理应用加上数据个性化场景展示。
+  
